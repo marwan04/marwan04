@@ -1,6 +1,3 @@
-![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan04&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan04&layout=compact&theme=tokyonight)
-
 # 👋 Hi, I'm Marwan Alrifai
 
 🎓 Cloud Computing graduate | 💻 Software Developer | 🤖 AI & Systems Enthusiast  
@@ -65,6 +62,11 @@ Led onboarding tech support, lab maintenance, and hardware/software troubleshoot
 - 🌐 42 Asia Hackathon (2024)
 - 🧠 Generative AI Hackathon @ MENADevs (2024)
 - ❤️ Volunteer educator & evaluator at 42 Amman and We Are For You Charity
+
+---
+
+![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan04&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan04&layout=compact&theme=tokyonight)
 
 ---
 
