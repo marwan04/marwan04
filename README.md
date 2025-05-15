@@ -1,3 +1,6 @@
+![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan04&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan04&layout=compact&theme=tokyonight)
+
 # 👋 Hi, I'm Marwan Alrifai
 
 🎓 Cloud Computing graduate | 💻 Software Developer | 🤖 AI & Systems Enthusiast  
