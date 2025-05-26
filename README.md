@@ -10,8 +10,6 @@
 
 I’m a passionate software developer with hands-on experience in AI prompt engineering, systems programming, and full-stack web development. My journey spans cloud computing, secure server configuration, and building practical tools and utilities from scratch. Whether it's designing intelligent prompts or writing system-level C code, I love crafting solutions that are reliable and scalable.
 
-I'm currently seeking opportunities to apply my skills and grow in environments focused on innovation — like a graduate role at Amazon!
-
 ---
 
 ## 🛠️ Technical Skills
